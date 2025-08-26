@@ -11,4 +11,4 @@
 		"code": 403,
 		"error": "Error making Github error retrieving contributions request, received error response with code 401: {\"message\":\"Bad credentials\",\"documentation_url\":\"https://docs.github.com/graphql\",\"status\":\"401\"}, headers: {\"date\":\"Tue, 26 Aug 2025 14:42:29 GMT\",\"content-type\":\"application/json; charset=utf-8\",\"content-length\":\"98\",\"x-github-media-type\":\"github.v4\",\"x-ratelimit-limit\":\"0\",\"x-ratelimit-remaining\":\"0\",\"x-ratelimit-reset\":\"1756222949\",\"x-ratelimit-used\":\"0\",\"x-ratelimit-resource\":\"graphql\",\"access-control-expose-headers\":\"ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset\",\"access-control-allow-origin\":\"*\",\"strict-transport-security\":\"max-age=31536000; includeSubdomains; preload\",\"x-frame-options\":\"deny\",\"x-content-type-options\":\"nosniff\",\"x-xss-protection\":"
 	}
-]
+]12
